@@ -2,4 +2,4 @@
 
 Serial.cpp => Serial ACO code for Travelling Salesman Problem
 
-Parralel.cpp => Parralel ACO code for Travelling Salesman Problem
+Parallel.cpp => Parallel ACO code for Travelling Salesman Problem
