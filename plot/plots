@@ -1,0 +1,5 @@
+This directory includes two graphs:
+
+Graph 1: For different values of N, Plot speed up with respect to the number of processing elements
+
+Graph 2: For different numbers of processing elements, Plot speedup with respect to N 
