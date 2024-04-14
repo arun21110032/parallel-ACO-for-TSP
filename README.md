@@ -6,6 +6,6 @@ Main.cpp -> serial ACO code for Travelling salesman problem
 
 Mainpar.cpp -> parralel ACO code for Travelling salesman problem
 
-![plot](./plot/img1)
+![plot](./plot/img1.jpg)
 
-![plot](./plot/img2)
+![plot](./plot/img2.jpg)
