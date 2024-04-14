@@ -1,4 +1,4 @@
-# parallel-ACO-for-TSP
+# PARALLEL ANT COLONY OPTIMIZATION FOR TRAVEL SALESMAN PROBLEM
 
 There are two files:
 
