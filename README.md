@@ -1,10 +1,8 @@
 # PARALLEL ANT COLONY OPTIMIZATION FOR TRAVEL SALESMAN PROBLEM
 
-There are two files:
+Serial.cpp => Serial ACO code for Travelling Salesman Problem
 
-Serial.cpp -> Serial ACO code for Travelling Salesman Problem
-
-Parralel.cpp -> Parralel ACO code for Travelling Salesman Problem
+Parralel.cpp => Parralel ACO code for Travelling Salesman Problem
 
 ![plot](./plot/graph1.png)
 
