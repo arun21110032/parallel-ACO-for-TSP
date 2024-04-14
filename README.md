@@ -2,9 +2,9 @@
 
 There are two files:
 
-Main.cpp -> serial ACO code for Travelling salesman problem
+Serial.cpp -> Serial ACO code for Travelling Salesman Problem
 
-Mainpar.cpp -> parralel ACO code for Travelling salesman problem
+Parralel.cpp -> Parralel ACO code for Travelling Salesman Problem
 
 ![plot](./plot/graph1.png)
 
